@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [TestAll]">
+  <test name="Testngclass(failed)">
+    <classes>
+      <class name="tst.Testngclass">
+        <methods>
+          <include name="AssertPageTitle"/>
+          <include name="openingBrowser"/>
+          <include name="ClosingBrowser"/>
+          <include name="GoogleSearch"/>
+        </methods>
+      </class> <!-- tst.Testngclass -->
+    </classes>
+  </test> <!-- Testngclass(failed) -->
+</suite> <!-- Failed suite [TestAll] -->

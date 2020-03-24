@@ -1,0 +1,5 @@
+https://www.saucedemo.com
+- Sign In
+- Add any number of items into Shopping Cart
+- Follow all the needed steps to finish Payment Operation
+- Sign Out
